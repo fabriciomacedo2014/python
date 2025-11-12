@@ -1,0 +1,5 @@
+print('Reajuste salarial')
+salario_atual = float(input('Digite seu salário atual: R$'))
+aumento = salario_atual + salario_atual * (15/100)
+print(f'Seu salário era de R${salario_atual:.2f} e agora com 15% de aumento ',end='')
+print(f'ele passa a ser de R${aumento}.')
