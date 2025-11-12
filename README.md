@@ -5,6 +5,7 @@
 🎓 **Estudante de programação** com 16 anos, apaixonado por tecnologia, aprendizado constante e desafios de lógica.  
 💻 Atualmente, estudo **Python** e desenvolvo projetos para praticar resolução de problemas, automação e ciência de dados.  
 🚀 Busco minha **primeira oportunidade** na área de tecnologia para continuar aprendendo e contribuir com projetos reais.
+
 🫶 Apoio infinito e agredecimentos / Alexandre Macedo
 💫 SouVestibulando / Marina Reis  
 ---
