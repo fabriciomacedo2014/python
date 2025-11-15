@@ -1,5 +1,0 @@
-thing = (input('Digite alguma coisa: '))
-print("Abaixo vamos dissecar sua váriavel: ")
-print(f"Qual é o tipo dela? {type(thing)}")
-print(f"Estão em maiúsculas? {thing.isupper()}. Estão em minúsculas? {thing.islower()}")
-print(f"É um número? {thing.isnumeric()}. É uma letra? {thing.isalpha()}")
